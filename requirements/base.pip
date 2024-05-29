@@ -1,0 +1,7 @@
+requests
+selenium
+attrs
+pytest
+pytest-rerunfailures
+allure-pytestpip list
+pytest-xdist
